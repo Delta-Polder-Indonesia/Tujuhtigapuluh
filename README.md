@@ -1,4 +1,4 @@
-<h1 align="center">TRIA NANDA ADISTI</h1>
+<h1 align="center">Bintang Toba</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Building%20useful%20products%20with%20clean%20code&descAlignY=58" alt="Waving header" />
