@@ -39,5 +39,5 @@ I like building software that solves real problems and still feels simple to use
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=100:06b6d4,50:1d4ed8,0:0f172a&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=30&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descAlignY=45&section=footer" alt="Waving footer" />
 </p>
 <p align="center">
-  <i>Made with 💙 by <b>TRIA NANDA ADISTI</b></i>
+  <i>Made with 💙 by <b>Bintang Toba</b></i>
 </p>
