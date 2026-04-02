@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:06b6d4&section=header&text=PT.%20Delta%20Polder%20Indonesia&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Engineering%20•%20Manufacturing%20•%20Innovation&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:06b6d4&section=header&text=Bintang%20Toba&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Engineering%20•%20Manufacturing%20•%20Innovation&descAlignY=58" />
 </p>
 
 <p align="center">
@@ -47,5 +47,5 @@ We focus on delivering high-quality engineering and industrial solutions with a 
 </p>
 
 <p align="center">
-  <i>© 2026 PT. Delta Polder Indonesia — All Rights Reserved</i>
+  <i>© 2026 Bintang Toba — All Rights Reserved</i>
 </p>
