@@ -1,43 +1,51 @@
-<h1 align="center">PT. Delta Polder Indonesia</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Building%20useful%20products%20with%20clean%20code&descAlignY=58" alt="Waving header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1d4ed8,100:06b6d4&section=header&text=PT.%20Delta%20Polder%20Indonesia&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Engineering%20•%20Manufacturing%20•%20Innovation&descAlignY=58" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&random=false&width=780&lines=Fullstack+Developer+%7C+Problem+Solver+%7C+Lifelong+Learner;Turning+ideas+into+fast%2C+reliable%2C+and+human-friendly+products;Currently+building%3A+PROJECT_NAME" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=800&lines=Engineering+Solutions+for+Real+World+Problems;Precision+%7C+Quality+%7C+Reliability;Building+Industrial+Innovation+in+Indonesia;Continuous+Improvement+%26+Smart+Technology" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Tujuhtigapuluh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.tiktok.com/@nkv.hjk.jla" target="_blank"><img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://github.com/Tujuhtigapuluh?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@nkv.hjk.jla" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
 </p>
 
-## About Me
+##  Company Overview
 
-I like building software that solves real problems and still feels simple to use.
+We focus on delivering high-quality engineering and industrial solutions with a strong emphasis on efficiency and innovation.
 
-- Focus: scalable web apps, performance, and product thinking
-- Strength: translating messy ideas into clear deliverables
-- Value: clean architecture, readable code, and consistent shipping
+-  Core: Engineering, Manufacturing, Industrial Solutions  
+-  Strength: System design, production optimization, scalability  
+-  Vision: Deliver reliable and sustainable technology solutions  
+-  Approach: Clean process, structured execution, measurable results  
 
-## Tech Stack
+---
+
+##  Technology & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,figma,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,figma,vscode" />
 </p>
 
-## Contribution Snake
+---
+
+##  Contribution Activity
 
 <div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thisisangelo/thisisangelo/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <img src="https://raw.githubusercontent.com/thisisangelo/thisisangelo/output/github-contribution-grid-snake.svg" />
 </div>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=100:06b6d4,50:1d4ed8,0:0f172a&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=30&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descAlignY=45&section=footer" alt="Waving footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=100:06b6d4,50:1d4ed8,0:0f172a&section=footer&text=Thank%20You%20for%20Visiting&fontColor=ffffff&fontSize=30&fontAlignY=70&desc=Let%E2%80%99s%20Collaborate%20and%20Build%20the%20Future&descAlignY=45" />
 </p>
+
 <p align="center">
-  <i>Made with 💙 by <b>PT. Delta Polder Indonesia</b></i>
+  <i>© 2026 PT. Delta Polder Indonesia — All Rights Reserved</i>
 </p>
